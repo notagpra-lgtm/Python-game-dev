@@ -8,7 +8,7 @@
 # def add(num1,num2):
 #     result=num1+num2
 #     print(result)
-# add(24,6546)
+# add(24,6546)a
 # add(31,43)
 
 def are(len,hig):
